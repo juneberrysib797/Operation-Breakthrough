@@ -1,2 +1,1 @@
-# Operation-Breakthrough
-Модуль для JavaScript
+упрощает ведение налогового учета
